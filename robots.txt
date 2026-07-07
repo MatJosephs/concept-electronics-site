@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://concept-electronics.ro/sitemap.xml
